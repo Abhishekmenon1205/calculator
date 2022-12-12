@@ -1,0 +1,31 @@
+.calcinput{
+    width: 425px;
+    height: 425px;
+    margin-left: 380px;
+    background-color: rgb(120, 120, 120);
+    text-align: center;
+    box-shadow: 1px 1px 1px #858585;
+    border: 9px solid black;
+    border-radius: 20px;
+    margin-top: 110px;
+ }
+.buttons{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 20px;
+    
+}
+.form{
+    width:90%;
+    height: 40px;
+    font-weight: bolder;
+    font-size: xx-large;
+    background-color: aquamarine;
+    border-radius: 10px;
+    border-color: black;
+}
+ 
+
+
+
